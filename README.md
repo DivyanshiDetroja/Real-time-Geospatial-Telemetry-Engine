@@ -8,14 +8,10 @@ This project demonstrates a minimal but complete real-time geospatial telemetry 
 - **Simulator**: A concurrent fleet simulator generates many clients, simulates network drops, queues unsent telemetry locally, and bulk-syncs on reconnect to avoid data loss.
 - **UI**: Streamlit dashboard starts/stops the simulator and visualizes telemetry/drop/queue/bulk-sync metrics.
 
-## Demo Video
 
-Watch the simulator in action:
+https://github.com/user-attachments/assets/e27a8ed6-8fe3-413b-a4a4-460b1f5fdf31
 
-<video width="100%" controls>
-  <source src="https://github.com/DivyanshiDetroja/Real-time-Geospatial-Telemetry-Engine/raw/main/videos/Geospatial%20Telemetry%20Engine.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ## What the project achieves
 
