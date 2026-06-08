@@ -12,7 +12,7 @@ This project demonstrates a minimal but complete real-time geospatial telemetry 
 
 Watch the simulator in action:
 
-https://github.com/DivyanshiDetroja/Real-time-Geospatial-Telemetry-Engine/assets/video/demo.mp4
+https://github.com/DivyanshiDetroja/Real-time-Geospatial-Telemetry-Engine/raw/main/videos/Geospatial%20Telemetry%20Engine.mp4
 
 ## What the project achieves
 
